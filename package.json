@@ -7,6 +7,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@tact-lang/compiler": "^1.1.4",
     "@ton-community/func-js": "^0.1.5",
     "bn.js": "^5.2.1",
     "qrcode-terminal": "^0.12.0",
